@@ -38,7 +38,7 @@
     "snyk": "^1.165.0"
   },
   "devDependencies": {
-    "browserify": "^13.1.1"
+    "browserify": "^15.0.0"
   },
   "snyk": true
 }
