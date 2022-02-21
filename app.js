@@ -8,7 +8,7 @@ require('./db');
 var st             = require('st');
 var crypto         = require('crypto');
 var express        = require('express');
-var http           = require('http');
+var http           = require('https');
 var path           = require('path');
 var engine         = require('ejs-locals');
 var cookieParser   = require('cookie-parser');
